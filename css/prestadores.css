@@ -1,0 +1,72 @@
+body {
+  margin: 0%;
+  padding: 0%;
+}
+
+header {
+  background-color: rgb(8, 136, 145);
+}
+
+section {
+  margin: 50px auto;
+  max-width: 800px;
+  text-align: justify;
+}
+
+section p {
+  margin-bottom: 20px;
+}
+
+.obrasocial .row {
+  margin-bottom: 20px;
+  justify-content: center;
+}
+
+.obrasocial img {
+  margin-bottom: 10px;
+  margin-right: 10px;
+  max-width: 100%;
+}
+
+.obrasocial {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.listado1 {
+  font-family: monospace;
+  font-size: 15px;
+  list-style-type: none;
+}
+
+.listado2 {
+  font-family: monospace;
+  font-size: 15px;
+  list-style-type: none;
+}
+
+.whatsapp {
+  color: aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+
+.facebook {
+  color: aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+
+.instagram {
+  color: aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+
+.linkedin {
+  color: aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
